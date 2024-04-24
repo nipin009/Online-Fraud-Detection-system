@@ -71,10 +71,10 @@ We evaluate the models using performance metrics such as accuracy, precision, re
 
 ### Results and Insights
 
-Based on the evaluation results, we identify the best-performing model for fraud detection and provide insights into its strengths and limitations. We discuss potential improvements and future directions for the project.
+Based on the evaluation results, we identify the best-performing model for fraud detection and provide insights into its strengths and limitations.Here we find XGBoost as our best model to perform on this data set. We discuss potential improvements and future directions for the project.
 
 ## Conclusion
 
-In conclusion, the Online Fraud Detection System project aims to develop an effective and scalable solution for detecting fraudulent activities in online transactions. By combining data analysis techniques, data preprocessing methods, and machine learning algorithms, we strive to build a robust and reliable fraud detection system that can be deployed in real-world scenarios.
+In conclusion, the Online Fraud Detection System project aims to develop an effective and scalable solution for detecting fraudulent activities in online transactions. By combining data analysis techniques, data preprocessing methods, and machine learning algorithms, we strive to build a robust and reliable fraud detection system that can be deployed in real-world scenarios with an accuracy of 0.9951.
 
 Thank you for visiting our project repository! If you have any questions or feedback, feel free to reach out to us.
